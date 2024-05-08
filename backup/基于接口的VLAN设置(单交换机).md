@@ -4,7 +4,7 @@
 
 拓扑结构：
 
-## 1.配置的拓扑结构图如下：
+## 1.配置的拓扑结构图如下图：
 
 ![网络图片](https://github.com/fengshengbanxia/fengshengbanxia.github.io/raw/main/images/1.png)
 
